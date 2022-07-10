@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883612908551",
+    "project_id": "signin-ae9ee",
+    "storage_bucket": "signin-ae9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883612908551:android:2791d361e1ce392e447ea2",
+        "android_client_info": {
+          "package_name": "com.example.hospitalapp01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883612908551-1t4tk4cm3h599mg5tcu0i47i265qa7f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsgQ3lWSxqYSVAUFnyc70VeVkdZ9tXSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883612908551-1t4tk4cm3h599mg5tcu0i47i265qa7f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
